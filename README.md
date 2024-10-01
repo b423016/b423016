@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Ayush Kumar Jha</h1>
 <h3 align="center">A machine Learning and Data Science Learner</h3>
 
-- 🔭 I’m currently working on [Chatbot ticketing system](https://github.com/cordiality-crypto/SIH1648)
+- 🔭 I’m currently working on [FianzMeister](https://github.com/cordiality-crypto/FinanzMeister)
 
-- 🌱 I’m currently learning **NLP,TensorFlow and Database Management**
+- 🌱 I’m currently learning **NLP, LLM and TensorFlow**
 
-- 👯 I’m currently working on **us_airplane_sentiment_analysis**
+- 👯 I’m currently working on **Stock Analysis**
 
 - 💬 Ask me about **Machine Learning,Statistics and Deep Learning**
 
-- 📫 How to reach me **b423016@iiit-bh.ac.in**
+- 📫 How to reach me **ayushjha4277@gmail.com**
 
-- ⚡ Fun fact **Experience running Business**
+- ⚡ Fun fact **I have experience in running a business**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
