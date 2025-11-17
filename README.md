@@ -111,10 +111,7 @@
 </a>
 &nbsp;&nbsp;
 <a href="https://leetcode.com/u/Beta_alpha/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" 
-       height="55" 
-       alt="leetcode" 
-       style="filter: invert(100%);" />
+   <img src="https://i.imgur.com/Jn7eJ4n.png" height="55" />
 </a>
 
 </p>
