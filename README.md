@@ -110,9 +110,13 @@
   <img src="https://skillicons.dev/icons?i=github" height="48" />
 </a>
 &nbsp;&nbsp;
-<a href="https://leetcode.com/u/Beta_alpha/">
-  <img src="https://skillicons.dev/icons?i=leetcode" height="55"/>
+<a href="https://leetcode.com/u/Beta_alpha/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" 
+       height="55" 
+       alt="leetcode" 
+       style="filter: invert(100%);" />
 </a>
+
 </p>
 
 ---
