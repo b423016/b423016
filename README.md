@@ -17,8 +17,8 @@
 ---
 
 ## ⚡ **Current Highlights**
-- 🔭 Working on **FinanzMeister** – AI-powered stock analysis & insights  
-- 🎯 Learning **LLMs, Advanced NLP, Deep Learning**  
+- 🔭 Working on **QUANT** 
+- 🎯 Learning **ECONOMICAL MATHS**
 - 👯 Open to collaborating on **AI, ML, Backend, FastAPI or RAG projects**  
 - ✉️ Reach out: **ayushjha4277@gmail.com**  
 - 🧠 Fun fact: I’ve run a business & love building end-to-end products  
@@ -66,7 +66,7 @@
 
 # 🏆 **Achievements**
 
-- 🥇 **Meta Hacker Cup — Global Rank 3908**
+- 🥇 **Meta Hacker Cup — Global Rank 1226**
 - 🥈 **Kaggle Competition — Top 2200 (Road Accident Risk Prediction)**
 - 🎮 **EA Sports Software Engineering Virtual Internship — Completed**
 - 🏅 **D3 Hackathon Finalist — Top 10 out of 300+ teams**  
