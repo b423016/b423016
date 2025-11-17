@@ -111,7 +111,8 @@
 </a>
 &nbsp;&nbsp;
 <a href="https://leetcode.com/u/Beta_alpha/" target="_blank">
-   <img src="https://i.imgur.com/Jn7eJ4n.png" height="55" />
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" 
+       height="55" />
 </a>
 
 </p>
