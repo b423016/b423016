@@ -1,115 +1,147 @@
-<!-- BEAUTIFUL MODERN README -->
+<!-- =============================================================== -->
+<!-- ULTRA-PREMIUM GLASSMORPHISM + GRADIENT GITHUB README — AYUSH -->
+<!-- =============================================================== -->
 
-<!-- Header Section -->
+<!-- Animated Intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=800&color=6AF7FF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B%2C+I'm+Ayush+Kumar+Jha;AI+Engineer+%7C+Backend+Developer+%7C+ML+Enthusiast;Building+Scalable+Systems+%26+Smart+AI+Products" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=900&color=7FFFD4&center=true&vCenter=true&width=900&lines=Hi+I'm+Ayush+Kumar+Jha+%F0%9F%91%8B;AI+Engineer+%7C+Backend+Developer+%7C+ML+Developer;Building+Scalable+Systems+%26+AI+Products+That+Matter" alt="Typing" />
+</p>
+
+<!-- Gradient Banner -->
+<p align="center">
+  <img src="https://i.imgur.com/UdZQ7DT.png" width="90%" />
 </p>
 
 ---
 
-## 🧑🏻‍💻 **About Me**
+<!-- Glassmorphism Intro Card -->
+<div align="center">
 
-💡 Passionate about bridging **Backend Engineering**, **AI systems**, and **ML-powered applications**.  
-🎯 My goal is to build **scalable**, **intelligent**, and **production-ready** systems.  
-🚀 Currently exploring **LLMs, RAG Pipelines, TensorFlow**, and **NLP**.  
-📈 Love solving real-world problems through data & engineering.
+<table width="90%" style="border-radius: 20px; padding: 20px; backdrop-filter: blur(10px); background: rgba(255,255,255,0.06); border: 1px solid rgba(255,255,255,0.15); box-shadow: 0 8px 32px rgba(31,38,135,0.3);">
+<tr><td>
+
+### 🚀 **About Me**
+
+🔹 AI Engineer & Backend Developer passionate about building intelligent & scalable systems  
+🔹 Exploring **LLMs, RAG pipelines, NLP, TensorFlow**  
+🔹 Working on **FinanzMeister – AI-driven stock analysis platform**  
+🔹 Love solving real-world problems using **ML + Engineering**
+
+📄 **Resume:**  
+👉 [Click Here to View My Resume](https://drive.google.com/file/d/1EnE_HTi6aj7CnCc_omLn7a7ZX7M2SBon/view?usp=sharing)
+
+🧠 **LeetCode:**  
+👉 https://leetcode.com/u/Beta_alpha/
+
+</td></tr>
+</table>
+
+</div>
 
 ---
 
-## ⚡ **Current Highlights**
-- 🔭 Working on **QUANT** 
-- 🎯 Learning **ECONOMICAL MATHS**
-- 👯 Open to collaborating on **AI, ML, Backend, FastAPI or RAG projects**  
-- ✉️ Reach out: **ayushjha4277@gmail.com**  
-- 🧠 Fun fact: I’ve run a business & love building end-to-end products  
+# 🛠️ **Tech Stack**
 
----
+<div align="center">
 
-# 🚀 **Tech Stack & Tools**
+<!-- Glassmorphism Card -->
+<table width="95%" style="border-radius: 18px; padding: 25px; backdrop-filter: blur(12px); background: rgba(255,255,255,0.07); border: 1px solid rgba(255,255,255,0.18); box-shadow: 0 8px 32px rgba(31,38,135,0.25);">
+<tr><td align="center">
 
-<p align="center">
+### 🔧 **Languages**
+<img src="https://skillicons.dev/icons?i=python,java,cpp,mysql" height="60"/>
 
-<!-- Languages -->
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=databricks&logoColor=white"/>
+### ⚙️ **Backend**
+<img src="https://skillicons.dev/icons?i=fastapi,docker,linux,git,postman,aws" height="60"/>
 
-<!-- Backend -->
-<br/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST%20APIs-025E8C?style=for-the-badge&logo=api&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS%20EC2-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+### 🤖 **AI / ML**
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" height="60"/>  
+<img src="https://img.shields.io/badge/LLMs-5C3EE8?style=for-the-badge&logo=openai&logoColor=white"/>  
+<img src="https://img.shields.io/badge/RAG%20Pipelines-2E8B57?style=for-the-badge"/>
 
-<!-- Databases -->
-<br/>
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redis-D92C21?style=for-the-badge&logo=redis&logoColor=white"/>
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
-
-<!-- AI/ML -->
-<br/>
-<img src="https://img.shields.io/badge/LLMs-5C3EE8?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Transformers-FFD43B?style=for-the-badge&logo=huggingface&logoColor=black"/>
+### 🗄️ **Databases**
+<img src="https://skillicons.dev/icons?i=postgres,redis" height="60"/>  
 <img src="https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 
-<!-- Tools -->
-<br/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+</td></tr>
+</table>
 
-</p>
+</div>
 
 ---
 
 # 🏆 **Achievements**
+<div align="center">
 
-- 🥇 **Meta Hacker Cup — Global Rank 1226**
-- 🥈 **Kaggle Competition — Top 2200 (Road Accident Risk Prediction)**
-- 🎮 **EA Sports Software Engineering Virtual Internship — Completed**
-- 🏅 **D3 Hackathon Finalist — Top 10 out of 300+ teams**  
-  Built a real-time thumbnail generator
+<table width="90%" style="border-radius: 18px; padding: 25px; backdrop-filter: blur(14px); background: rgba(255,255,255,0.07); border: 1px solid rgba(255,255,255,0.13); box-shadow: 0 8px 32px rgba(31,38,135,0.2);">
+<tr><td>
+
+- 🥇 **Meta Hacker Cup — Global Rank 1206**  
+- 🥈 **Kaggle Competition — Top 2200 (Accident Risk Prediction)**  
+- 🎮 **EA Sports Software Engineering Virtual Internship**  
+- 🏅 **D3 Hackathon Finalist — Top 10 / 300+ teams** (Built real-time thumbnail generator)
+
+</td></tr>
+</table>
+
+</div>
 
 ---
 
-# 📂 **Featured Projects**
+# 🚀 **Featured Projects**
 
 ---
 
-## 🔥 **Narrative-Weaver — RAG-Based Narrative Consistency Engine**  
-📌 *Supabase | pgvector | Python | TipTap | RAG Pipelines*
+## 🌌 **Narrative-Weaver — RAG-Based Narrative Consistency Engine**
 
-- Built semantic search over large manuscripts (**300+ pages**)  
+<div align="center">
+<table width="90%" style="border-radius: 18px; padding: 25px; backdrop-filter: blur(10px); background: rgba(255,255,255,0.07); border: 1px solid rgba(255,255,255,0.15);">
+<tr><td>
+
+📌 *Supabase | pgvector | Python | TipTap | RAG*  
+
+- Semantic search for **300+ page manuscripts**  
 - Achieved **98% citation accuracy**  
-- Query latency **< 450 ms**, ingestion pipeline **< 300s**  
-- 50k+ vector DB with **< 150ms** consistency checks
+- Query latency **< 450 ms**, ingestion **< 300s**  
+- 50k+ vectors with consistency flags in **< 150ms**
+
+</td></tr>
+</table>
+</div>
 
 ---
 
-## 💾 **ByteFit Manager — Memory Allocation Simulator**  
-📌 *Java | OS | Data Structures*
+## 💾 **ByteFit Manager — OS Memory Allocation Simulator**
 
-- Implemented First-Fit, Best-Fit, Worst-Fit algorithms  
-- Managed **1024 bytes** handling **100+ memory operations**  
-- Achieved **O(log n)** merging with Java TreeMap
+<div align="center">
+<table width="90%" style="border-radius: 18px; padding: 25px; backdrop-filter: blur(10px); background: rgba(255,255,255,0.07); border: 1px solid rgba(255,255,255,0.15);">
+<tr><td>
+
+📌 *Java | OS | Data Structures*  
+
+- Implemented First-Fit, Best-Fit, Worst-Fit  
+- Simulated **1024 bytes**, handled **100+ operations**  
+- Java TreeMap for **O(log n)** efficiency  
+
+</td></tr>
+</table>
+</div>
 
 ---
 
 # 🌐 **Connect with Me**
 
 <p align="center">
-<a href="https://www.linkedin.com/in/ayush-jha-196470287" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="48" />
+<a href="https://www.linkedin.com/in/ayush-jha-196470287">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
 </a>
 &nbsp;&nbsp;
-<a href="https://github.com/b423016" target="_blank">
-  <img src="https://skillicons.dev/icons?i=github" height="48" />
+<a href="https://github.com/b423016">
+  <img src="https://skillicons.dev/icons?i=github" height="55"/>
 </a>
 &nbsp;&nbsp;
-<a href="https://kaggle.com/beta_alpha1" target="_blank">
-  <img src="https://skillicons.dev/icons?i=kaggle" height="48" />
+<a href="https://leetcode.com/u/Beta_alpha/">
+  <img src="https://skillicons.dev/icons?i=leetcode" height="55"/>
 </a>
 </p>
 
@@ -117,23 +149,30 @@
 
 # 📊 **GitHub Stats**
 
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=b423016&theme=tokyonight&hide_border=true" height="190"/>
+<br/>
+<img src="https://github-readme-stats.vercel.app/api?username=b423016&show_icons=true&theme=tokyonight&hide_border=true" height="190"/>
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=b423016&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+
+</div>
+
+---
+
+# 🔥 **Contribution Graph**
+
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=b423016&theme=tokyonight" height="180"/>
-<br/>
-<img src="https://github-readme-stats.vercel.app/api?username=b423016&show_icons=true&theme=tokyonight" height="180"/>
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=b423016&layout=compact&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=b423016&theme=react-dark&hide_border=true&area=true"/>
 </p>
 
 ---
 
-# 🔥 **Activity Graph**
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=b423016&theme=react-dark&hide_border=true"/>
+  <img src="https://i.imgur.com/3Zzc1cO.png" width="70%"/>
 </p>
 
----
-
 <p align="center">
-  <b>⭐ If you like my work, consider starring a repo — it helps a lot! ⭐</b>
+  <b>⭐ If you like my work, consider starring a repo! It motivates me more than you think. ⭐</b>
 </p>
