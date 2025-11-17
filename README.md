@@ -15,7 +15,9 @@
 📈 Love solving real-world problems through data & engineering.
 
 ---
-
+📄 **Resume:**  
+👉 [Click Here to View My Resume](https://drive.google.com/file/d/1EnE_HTi6aj7CnCc_omLn7a7ZX7M2SBon/view?usp=sharing)
+---
 ## ⚡ **Current Highlights**
 - 🔭 Working on **QUANT** 
 - 🎯 Learning **ECONOMICAL MATHS**
@@ -108,8 +110,8 @@
   <img src="https://skillicons.dev/icons?i=github" height="48" />
 </a>
 &nbsp;&nbsp;
-<a href="https://kaggle.com/beta_alpha1" target="_blank">
-  <img src="https://skillicons.dev/icons?i=kaggle" height="48" />
+<a href="https://leetcode.com/u/Beta_alpha/">
+  <img src="https://skillicons.dev/icons?i=leetcode" height="55"/>
 </a>
 </p>
 
