@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <strong>SDE Intern @ Xalen AI</strong> · B.Tech IT @ IIIT Bhubaneswar (GPA 8.53) · Placement Coordinator<br/>
+  <strong>SDE Intern @ Xalen AI</strong> · B.Tech IT @ IIIT Bhubaneswar (CGPA 8.56) · Placement Coordinator<br/>
   Real-time voice systems · pure-Rust ephemeris (650+★) · professional AI evals for frontier labs
 </p>
 
