@@ -59,10 +59,10 @@ Led a 3-person team: microservices on EC2, **5k+ req / 15 min** for **250+** con
 
 Training-free re-ranker over FashionSigLIP so attribute binding (“red tie + white shirt”) doesn’t swap.
 
-#### [Quant Hedging Terminal](https://github.com/b423016/Quant-hedging-terminal)  
-`Next.js` · `FastAPI` · `LangGraph`
+#### [Quant Hedging Terminal](https://github.com/b423016/Project_alpha/)  
+`Next.js` · `Rust` · `LangGraph`
 
-Options terminal with a 5-node LangGraph agent for delta-neutral hedging under **800ms**; Greeks + live positions.
+Options terminal with a 6-node LangGraph agent for delta-neutral hedging under **800ms**; Greeks + live positions.
 
 <details>
 <summary>More projects</summary>
